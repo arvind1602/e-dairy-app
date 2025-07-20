@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Rasgulla",
+    "image": "https://imgs.search.brave.com/Inic0liQy0kkcSVZSXpUsfvosASyrKEgu6MOwyyDJ2k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2Q2L1Jhc2d1bGxh/X0ltYWdlLkpQRz8y/MDE1MDYwOTEwMjc1/NA",
+    "price": 320,
+    "unit": "per kg"
+  },
+  {
+    "id": 2,
+    "name": "Gulab Jamun",
+    "image": "https://imgs.search.brave.com/jepVE_NYMrjN40EtobktuyPVYSPq29KsBZLh-MUneXc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9ndWxhYi1qYW11/bi1pcy1taWxrLXNv/bGlkLWJhc2VkLXN3/ZWV0LWR1bXBsaW5n/LXBvcHVsYXItaW5k/aWEtcGFraXN0YW5h/LWEtYS1hLWZlc3Rp/dmFscy1saWtlLWRp/d2FsaS1laWQtZXZl/bi13ZWRkaW5nLXBh/cnRpZXNfNDY2Njg5/LTUyNDc4LmpwZz9z/ZW10PWFpc19oeWJy/aWQmdz03NDA",
+    "price": 350,
+    "unit": "per kg"
+  },
+  {
+    "id": 3,
+    "name": "Kaju Katli",
+    "image": "https://imgs.search.brave.com/Q3jSwTma9bEIbsXuChZPQXCqd3z1UvhHjoJLgAQhhso/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aW5kaWFuaGVhbHRo/eXJlY2lwZXMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIx/LzEwL2thanUta2F0/bGkud2VicA",
+    "price": 700,
+    "unit": "per kg"
+  },
+  {
+    "id": 4,
+    "name": "Soan Papdi",
+    "image": "https://imgs.search.brave.com/p9QK4mMDkuPLLY3-8bQ56r1XoqTZmb246KG7HudLneQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2h1dHRlcnN0b2Nr/LmNvbS9pbWFnZS1w/aG90by9zb2FuLXBh/cGRpLWluZGlhbi1z/d2VldC0yNjBudy0x/Mzc5NjY5NjkuanBn",
+    "price": 280,
+    "unit": "per kg"
+  },
+  {
+    "id": 5,
+    "name": "Jalebi",
+    "image": "https://imgs.search.brave.com/KJ41L3UXwq415073ce_kkZSd7QvbwDKErqYiaukpU54/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA3LzUwLzg3LzY1/LzM2MF9GXzc1MDg3/NjU0M19YZkp0RHUy/MDJRMktDTWs0NllC/b2VQaDdncEpjeHo0/dC5qcGc",
+    "price": 260,
+    "unit": "per kg"
+  },
+  {
+    "id": 6,
+    "name": "Milk Cake",
+    "image": "https://imgs.search.brave.com/TnKMU061Szgb20BC-vAQKaqknMvJWbnStg8BMKqe5-Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGFzdGVvZmhvbWUu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI0LzA0L0hvdC1N/aWxrLUNha2UtRlQy/NF8zODZfU1RfMDUw/OF84LmpwZz9maXQ9/NzAwLDEwMjQ",
+    "price": 400,
+    "unit": "per kg"
+  },
+  {
+    "id": 7,
+    "name": "Kalakand",
+    "image": "https://imgs.search.brave.com/5-XTZj9YQdW90O41m_rB7B7ftnAg9bbnxDijTXE_j38/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ1/ODEwOTE3OC9waG90/by9rYWxha2FuZC1p/bmRpYW4tZGVzc2Vy/dC5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9WlhVYUNoeU5j/Y05paU42RzZreG03/ZFlZZjF0c1FiTG8z/Y2JPZU1qX2Nicz0",
+    "price": 420,
+    "unit": "per kg"
+  },
+  {
+    "id": 8,
+    "name": "Motichoor Ladoo",
+    "image": "https://imgs.search.brave.com/cpZ17PwrmY9YW7mfJZs1ZBKDV4iQ3Vff8XS5f7V0wEM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTA4/OTA5Njc0L3Bob3Rv/L2luZGlhbi1zd2Vl/dHMtbW90aWNob29y/LWxhZG9vLW9yLWxh/ZGR1LmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1KMGNveTBW/ZmpJOVBMUUpqTDRB/THVGLUM2ZUdnNHZ0/UzE5ZkRNQVZsMndj/PQ",
+    "price": 380,
+    "unit": "per kg"
+  },
+  {
+    "id": 9,
+    "name": "Besan Ladoo",
+    "image": "https://imgs.search.brave.com/EmRYmd-t6Lw0RFKyHNB7-m8LKREK_md3VStvi2Q0GD0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/amNvb2tpbmdvZHlz/c2V5LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMS8xMi9i/ZXNhbi1sYWRvby0w/NS5qcGc",
+    "price": 360,
+    "unit": "per kg"
+  },
+  {
+    "id": 10,
+    "name": "Barfi",
+    "image": "https://imgs.search.brave.com/iXpHdZ16DUo-pr-gPHWa4msnCzq4E-lkzKIEOflw7Zc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTcy/MTQ2MzQzL3Bob3Rv/L2luZGlhbi1zd2Vl/dHMtY3ViZXMuanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPWpO/VkxneFpKdEFJb3NY/bUJmOTE2VUZ6a0xP/dXhDTFZfRmRtbkxY/MGt1QU09",
+    "price": 390,
+    "unit": "per kg"
+  },
+  {
+    "id": 11,
+    "name": "Milk",
+    "image": "https://imgs.search.brave.com/xS2IFtNpBEOf9L79Wrz8z2jvfCnkXLvUDzANeHb8wK4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNi8x/MC8wMy8wOC81My9t/aWxrLTE3MTEwOTlf/NjQwLmpwZw",
+    "price": 60,
+    "unit": "per litre"
+  },
+  {
+    "id": 12,
+    "name": "Paneer",
+    "image": "https://imgs.search.brave.com/3S7q7xohMc6vaeVKPl_90tVB51mhUGmOVIXH28EeN6I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbmRp/c2hpb3VzLmNvbS9f/YXN0cm8vOTQxNzhl/ZjAtNWQ0My00MWFj/LTgwYTAtYTU5ZDMx/NjcwYzljX0hvbWVt/YWRlK1BhbmVlcl9a/eE9EelguanBlZw",
+    "price": 420,
+    "unit": "per kg"
+  },
+  {
+    "id": 13,
+    "name": "Curd",
+    "image": "https://imgs.search.brave.com/_xXiiZqAitT2ID6LaUTZ3frUw-SZh3pJHfOinkO8WVI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdC5k/ZXBvc2l0cGhvdG9z/LmNvbS8xMDYzMzk3/LzE4NDgvaS80NTAv/ZGVwb3NpdHBob3Rv/c18xODQ4Mzc5MS1z/dG9jay1waG90by1o/b21lbWFkZS1jdXJk/LmpwZw",
+    "price": 50,
+    "unit": "per litre"
+  },
+  {
+    "id": 14,
+    "name": "Ghee",
+    "image": "https://imgs.search.brave.com/IWJeYId6mKA-lN7-DQXI70bZI36Pbdh2WF_4BHmJM3Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzEyLzM4LzU0LzMw/LzM2MF9GXzEyMzg1/NDMwOTdfclduYTZy/MmwxRm1HRjRNczdY/QkJSR0VtcUlhR29U/SUouanBn",
+    "price": 550,
+    "unit": "per litre"
+  },
+  {
+    "id": 15,
+    "name": "Butter",
+    "image": "https://imgs.search.brave.com/CXl3YWx8W5cyxZYhVE8UuPihBNL_BjehftXHBff2K8I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA5LzI0LzYzLzQ5/LzM2MF9GXzkyNDYz/NDk5NF8ySnlCckFE/NzdtSEh0cmhuNFJw/bDhqM3ZsNExVZngz/eS5qcGc",
+    "price": 480,
+    "unit": "per kg"
+  },
+  {
+    "id": 16,
+    "name": "Rabri",
+    "image": "https://imgs.search.brave.com/EYOazyVwtEF22wDNrEhUpxLlwuc4uwjVhQGuwZupXNs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9iYXN1bmRpLXJh/YnJpLXJhYmRpLWlz/LWRlc3NlcnQtbWFk/ZS1jb25kZW5zZWQt/bWlsay1kcnktZnJ1/aXRzXzQ2NjY4OS00/MjY3OS5qcGc_c2Vt/dD1haXNfaHlicmlk/Jnc9NzQw",
+    "price": 450,
+    "unit": "per kg"
+  },
+  {
+    "id": 17,
+    "name": "Malpua",
+    "image": "https://imgs.search.brave.com/W3C0AxSFz1x8opRmFFjVH3YAeVVjqlL4wEDKY9oOJiE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9pbmRp/YW4tc3dlZXQtbWFs/cHVhLXBhbmNha2Ut/c2VydmVkLWFzLWRl/c3NlcnQtc25hY2st/Z2VuZXJhbGx5LW5v/cnRoZXJuLWluZGlh/LWVzcGVjaWFsbHkt/aG9saS1yYWphc3Ro/YW4tdXAtNDQxNzE0/OTYuanBn",
+    "price": 300,
+    "unit": "per kg"
+  },
+  {
+    "id": 18,
+    "name": "Cham Cham",
+    "image": "https://imgs.search.brave.com/FWtUCd2e2Emxi0x462c4jU8X9oIYXexJ1hmMIT9lC3g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2h1dHRlcnN0b2Nr/LmNvbS9pbWFnZS1w/aG90by9yYXNndWxs/YS1jaGFtLWluZGlh/bi1zd2VldC0yNjBu/dy0xNDYwNDY4MDYu/anBn",
+    "price": 370,
+    "unit": "per kg"
+  },
+  {
+    "id": 19,
+    "name": "Shrikhand",
+    "image": "https://imgs.search.brave.com/aSm3Tp2Fs8mTcf7yKJ5SjQMaR7QApjjrRpSRdnLD6Xs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2h1dHRlcnN0b2Nr/LmNvbS9pbWFnZS1w/aG90by9zaHJpa2hh/bmQtYW1yYWtoYW5k/LWFscGhvbnNvLWZs/YXZvdXJlZC15b2d1/cnQtMjYwbnctMjA2/NzkwMTIyNi5qcGc",
+    "price": 340,
+    "unit": "per kg"
+  },
+  {
+    "id": 20,
+    "name": "Mysore Pak",
+    "image": "https://imgs.search.brave.com/VKE3LgUFNh_J7uOjpwk5tLBAH5beE9ok1fxiLc-JWxs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dmVncmVjaXBlc29m/aW5kaWEuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE2LzEw/L215c29yZS1wYWst/cmVjaXBlMzUuanBn",
+    "price": 430,
+    "unit": "per kg"
+  },
+  {
+    "id": 21,
+    "name": "Lassi",
+    "image": "https://imgs.search.brave.com/ZfQ593X8MUyxYsn1_M9y9_rD4c_9V9QPGEfoKkZfJWA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jZG4udHJpcGFk/dmlzb3IuY29tL21l/ZGlhL3Bob3RvLW8v/MGYvYTgvMWIvODAv/bGFzc2kuanBn",
+    "price": 80,
+    "unit": "per litre"
+  },
+  {
+    "id": 22,
+    "name": "Rasmalai",
+    "image": "https://imgs.search.brave.com/TQrchxKINVMpHp5ETlspd2BhHhO4qSrmt6DucMnSyb0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YmFic3Byb2plY3Rz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNi8wOS9hbWVy/aWNhbi1yYXNtYWxh/aS1lMTQ3MzE5OTc0/MTc4OS5qcGc",
+    "price": 480,
+    "unit": "per kg"
+  },
+  {
+    "id": 23,
+    "name": "Khoya",
+    "image": "https://imgs.search.brave.com/l2R5R-vSXZQigAW-Abtd7TnSBw8GrvV7p6yA01wCeGw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3BpY2V1cHRoZWN1/cnJ5LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxMy8xMC9L/aG95YS1SZWNpcGUt/aG9tZW1hZGUtbWF3/YTEuanBn",
+    "price": 500,
+    "unit": "per kg"
+  },
+  {
+    "id": 24,
+    "name": "Pedha",
+    "image": "https://imgs.search.brave.com/jmPNbOx8_e26FQOyaxXaCugf4JbS2I0JBn4CwOFgihE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oZWJi/YXJza2l0Y2hlbi5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDUvTWlsay1Q/ZWRhLVJlY2lwZS1E/b29kaC1LYS1QZWRh/LUhhbHdhaS1TdHls/ZS0yLTEwMjR4Njgz/LmpwZWc",
+    "price": 460,
+    "unit": "per kg"
+  },
+  {
+    "id": 25,
+    "name": "Sandesh",
+    "image": "https://imgs.search.brave.com/GnY5X7ejT6-kfnmHE6hfVPjNJmog0wbfKYo6gGz1GAI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzExLzkxLzQ1LzE4/LzM2MF9GXzExOTE0/NTE4OTZfck9Xanlr/ME9wUlFEcGdtcWRQ/anlrUXdSRWVQMmM5/dk4uanBn",
+    "price": 440,
+    "unit": "per kg"
+  },
+  {
+    "id": 26,
+    "name": "Rabdi Malpua",
+    "image": "https://imgs.search.brave.com/5hm6aSlWCYpa-ZnVF6CQUV-KBTLExmyKr_KplE4EcNQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dmVncmVjaXBlc29m/aW5kaWEuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzA5/L21hbHB1YS1yZWNp/cGUtMi0yODB4Mjgw/LmpwZw",
+    "price": 390,
+    "unit": "per kg"
+  },
+  {
+    "id": 27,
+    "name": "Rose Milk",
+    "image": "https://imgs.search.brave.com/d4B0EGG11NKAi9xPTNqnd_bSaOs89V-wQbm-orTt_rw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/amV5YXNocmlza2l0/Y2hlbi5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjEvMDQv/SU1HXzc2MjIuanBn",
+    "price": 75,
+    "unit": "per litre"
+  },
+  {
+    "id": 28,
+    "name": "Basundi",
+    "image": "https://imgs.search.brave.com/wJtiatC2gTqtxRkP5zTsK-6M_vI_e6jT48hWA2RfFCQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/Y3JlYXRlLnZpc3Rh/LmNvbS9hcGkvbWVk/aWEvc21hbGwvMzA4/NDM1NTQyL3N0b2Nr/LXBob3RvLWJhc3Vu/ZGktcmFicmktcmFi/ZGktZGVzc2VydC1t/YWRlLWNvbmRlbnNl/ZC1taWxrLWRyeS1m/cnVpdHM",
+    "price": 490,
+    "unit": "per kg"
+  },
+  {
+    "id": 29,
+    "name": "Dhokla",
+    "image": "https://imgs.search.brave.com/dCnAncNwjuOpqAHfB6TBJi_M9R8psBs0c_vrSB-3nhA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YW1iYWZvb2RzLmNv/LmluL2ltYWdlcy90/aHVtYnMvMDAwMDY3/M19raGFtYW4tZGhv/a2xhLWluc3RhbnQt/bWl4XzU1MC5qcGVn",
+    "price": 290,
+    "unit": "per kg"
+  },
+  {
+    "id": 30,
+    "name": "Kheer",
+    "image": "https://imgs.search.brave.com/TQZCOX77ERxjvuaNNFnnAV5wDYTuZbAHYssF1KmZY54/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjU2/OTQ4MDIwL3Bob3Rv/L2hvbWVtYWRlLXN3/ZWV0LWtoZWVyLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1I/SlJvX2J3ZjZqVWZG/X1RGdndabWJXcW5V/SWVwa1pKOGE4R2xQ/MkNaTFI4PQ",
+    "price": 370,
+    "unit": "per kg"
+  }
+]
