@@ -3,7 +3,9 @@ import { createContext, useContext, useState } from "react";
 const CartContext = createContext();
 
 export default function CartContextProvider({ children }) {
-  const [cart, setCart] = useState([]);
+  const [cart, setCart] = useState(
+    JSON.parse(localStorage.getItem("e-dairyCart")) || []
+  );
 
   // ✅ Add item
   const addCart = (item) => {
@@ -17,6 +19,8 @@ export default function CartContextProvider({ children }) {
 
   // ✅ Total price calculation
   const totalPrice = cart.reduce((sum, item) => sum + item.price, 0);
+
+  localStorage.setItem("e-dairyCart", JSON.stringify(cart));
 
   return (
     <CartContext.Provider value={{ cart, addCart, removeItem, totalPrice }}>
