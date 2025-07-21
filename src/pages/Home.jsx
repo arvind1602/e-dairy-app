@@ -10,7 +10,7 @@ function Home() {
       </div>
       <div className="flex flex-wrap justify-center items-center ">
         {item.map((data) => (
-          <ItemCard itemData={data} />
+          <ItemCard key = {data.id} itemData={data} />
         ))}
       </div>
     </>
